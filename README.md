@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ye Khant San</h1>
 <h3 align="center">Web developer</h3>
-<img align="center" alt="Coding" width="80%" height="500" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+<img align="center" alt="Coding" width="80%" height="100%" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 - 💬 Ask me about **Vue**
 
